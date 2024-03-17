@@ -32,6 +32,10 @@ To use cc.js in your project, you can include it directly in your HTML file usin
 ```html
 <script src="cc.js"></script>
 ```
+###### CDN
+```html
+ <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js" defer></script>
+```
 
 ## Usage
 
