@@ -48,7 +48,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Execute JavaScript</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <cc>
@@ -67,7 +67,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Apply CSS Styles</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <cc>
@@ -88,7 +88,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Execute JSON Object</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <cc>
@@ -121,7 +121,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Dynamically Change Background Color</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <cc>
@@ -142,7 +142,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Copy Text to Clipboard</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <button onclick="copyText()">Copy Text</button>
@@ -165,7 +165,7 @@ To use cc.js in your project, you can include it directly in your HTML file usin
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cc.js Example - Typing Animation</title>
-    <script src="cc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/cc/cc.js"></script>
 </head>
 <body>
     <p id="typingText"></p>
